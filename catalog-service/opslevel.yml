@@ -6,7 +6,7 @@ service:
   tier: tier_1
   product: 
   owner: inventory_team
-  language: Scala
+  language: Java
   framework: Akka
   description: Used to display information about what products are available for purchase
     and in what quantities.
