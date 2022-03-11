@@ -1,3 +1,10 @@
+[![Overall](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FCMlANWYN9dRYWnIIq8jlj1RloYxWDrxeYNs5pkXRRck)](https://app.opslevel.com/services/catalog_service/maturity-report)
+[![Security](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FCMlANWYN9dRYWnIIq8jlj1RloYxWDrxeYNs5pkXRRck%2Fsecurity)](https://app.opslevel.com/services/catalog_service/maturity-report)
+[![Reliability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FCMlANWYN9dRYWnIIq8jlj1RloYxWDrxeYNs5pkXRRck%2Freliability)](https://app.opslevel.com/services/catalog_service/maturity-report)
+[![Scalability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FCMlANWYN9dRYWnIIq8jlj1RloYxWDrxeYNs5pkXRRck%2Fscalability)](https://app.opslevel.com/services/catalog_service/maturity-report)
+[![Observability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FCMlANWYN9dRYWnIIq8jlj1RloYxWDrxeYNs5pkXRRck%2Fobservability)](https://app.opslevel.com/services/catalog_service/maturity-report)
+[![Quality](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FCMlANWYN9dRYWnIIq8jlj1RloYxWDrxeYNs5pkXRRck%2Fquality)](https://app.opslevel.com/services/catalog_service/maturity-report)
+
 This sample contains [sbt](http://www.scala-sbt.org/) build settings and test classes for illustrating multi-node testing with Akka.
 
 Please refer to the full documentation of [multi-node testing](http://doc.akka.io/docs/akka/2.5/dev/multi-node-testing.html) and the closely related [multi-jvm testing](http://doc.akka.io/docs/akka/2.5/dev/multi-jvm-testing.html) for details. There is also an section on [cluster testing](http://doc.akka.io/docs/akka/2.5/scala/cluster-usage.html#How_to_Test).
